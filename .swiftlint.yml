@@ -1,0 +1,5 @@
+excluded:
+  - Pods
+disabled_rules:
+  - for_where
+  - discarded_notification_center_observer

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>258437239338-mg2bdo9hs8l7ad08gnpdoia7nteb48s6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.258437239338-mg2bdo9hs8l7ad08gnpdoia7nteb48s6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqKE9xt3T5qXoO1OzYI_t-BU4HOcKHeTI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>258437239338</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vshmatok.ARGallery</string>
+	<key>PROJECT_ID</key>
+	<string>argallery-91ca3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>argallery-91ca3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:258437239338:ios:763521db038299bff26953</string>
+	<key>DATABASE_URL</key>
+	<string>https://argallery-91ca3.firebaseio.com</string>
+</dict>
+</plist>
