@@ -1,2 +1,2 @@
 # ARGallery
-Master's degree project
+Master degree iOS Application written in Swift language
